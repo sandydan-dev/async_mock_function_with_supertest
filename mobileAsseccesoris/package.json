@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  },
+  "name": "mobileasseccesoris",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": ["express", "jest", "supertest"],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "description": "Creating mobile asseccesoris apis"
+}
